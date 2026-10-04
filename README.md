@@ -4,7 +4,7 @@
 
 <br><br>
 
-# nuwget
+# Nuwget
 
 **Dev. FullStack | Desenvolvedor | FastAPI | Python | Node | React | React Native | Mobile | SQL | Firebase | Segurança Cibernética**
 
